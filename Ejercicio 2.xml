@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE listaPedidos SYSTEM "Ejercicio 2.dtd">
+
+<listaPedidos>
+
+    <pedido>
+        <numeroSerie>654201</numeroSerie>
+        <cantidad>12</cantidad>
+    </pedido>
+
+    <pedido>
+        <numeroSerie>2311568</numeroSerie>
+        <cantidad>10</cantidad>
+        <peso>50 kg</peso>
+    </pedido>
+
+</listaPedidos>
+
+<!-- <listaPedidos>
+
+        <pedido>
+                <numeroSerie>654201</numeroSerie>
+                <peso>12</peso>
+                <cantidad>50 kg</cantidad>
+        </pedido>
+
+</listaPedidos> -->
+
+<!-- Este ejemplo es invalido ya que el DTD se encarga de validar el orden interno -->
