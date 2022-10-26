@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!DOCTYPE listaPedidos SYSTEM "Ejercicio 2.dtd">
+<!-- <!DOCTYPE listaPedidos SYSTEM "Ejercicio 2.dtd"> -->
 
-<listaPedidos>
+
+
+<listaPedidos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Ejercicio 2.xsd">
 
     <pedido>
         <numeroSerie>654201</numeroSerie>
